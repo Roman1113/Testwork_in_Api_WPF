@@ -1,0 +1,14 @@
+C:\Users\maksutroman\source\repos\Testwork\Testwork\bin\Debug\netcoreapp2.1\Testwork.deps.json
+C:\Users\maksutroman\source\repos\Testwork\Testwork\bin\Debug\netcoreapp2.1\Testwork.runtimeconfig.json
+C:\Users\maksutroman\source\repos\Testwork\Testwork\bin\Debug\netcoreapp2.1\Testwork.runtimeconfig.dev.json
+C:\Users\maksutroman\source\repos\Testwork\Testwork\bin\Debug\netcoreapp2.1\Testwork.dll
+C:\Users\maksutroman\source\repos\Testwork\Testwork\bin\Debug\netcoreapp2.1\Testwork.pdb
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.csprojAssemblyReference.cache
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.csproj.CoreCompileInputs.cache
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.RazorAssemblyInfo.cache
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.RazorAssemblyInfo.cs
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.AssemblyInfoInputs.cache
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.AssemblyInfo.cs
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.RazorTargetAssemblyInfo.cache
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.dll
+C:\Users\maksutroman\source\repos\Testwork\Testwork\obj\Debug\netcoreapp2.1\Testwork.pdb
